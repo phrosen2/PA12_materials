@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Test 1",
+      "setup": "",
+      "run": "./PA12 ./tests/test.txt test",
+      "input": "",
+      "output": "3\na 1\nare 1\ngreat 1\nis 1\nsmall 1\ntest 2\nthis 1\nwonderful 1",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test 2",
+      "setup": "",
+      "run": "./PA12 ./tests/test2.txt picard",
+      "input": "",
+      "output": "7\na 9\nall 1\nalloy 1\nam 2\nan 2\nand 3\nanswer 1\nappears 1\nare 1\nasked 1\nassumed 1\nbe 1\nbeam 3\nbridge 1\nbut 2\nby 3\ncan 1\ncannot 1\ncaptain 2\ncaptain's 1\ncaught 1\nceramic 1\ncoming 1\ncomposed 1\ncomputer 2\ncourse 2\ndata 4\ndays 1\ndear 1\ndesign 1\ndetected 1\ndetecting 1\ndon't 1\neline 6\nemitting 1\nend 1\nenterprise 1\nface 1\nfeeling 1\nfever 1\nfeverish 1\nfinally 1\nfloor 1\nfollowing 1\nfor 1\nfreeze 1\nfrom 1\nget 1\ngo 1\ngot 1\nhad 1\nhas 1\nhere 1\nhigh 1\nhim 1\nholding 1\nhome 1\nhow 1\ni 3\ni've 1\nidentify 1\nimmediately 1\nincrease 1\nis 13\nit 4\nit's 1\nkamin 4\nkind 1\nlaforge 1\nliving 1\nlog 1\nlow-level 1\nlowers 1\nmagnetic 1\nmagnify 1\nme 1\nmister 1\nmustn't 1\nno 2\nnot 2\nnucleonic 1\nobject 2\nof 5\non 1\nor 1\nour 1\noutside 1\nparicium 1\nparticle 1\nparvenium 1\npenetrating 1\nperimeter 1\nphasers 1\npicard 9\nplace 2\nplease 2\nposition 1\npower 1\nprisoner 1\nprobe 4\nprogramme 2\npush 1\nquickly 1\nreally 1\nrecord 1\nrelative 1\nreplaced 1\nriker 4\nriker's 1\nroom 1\nscanning 2\nsector 1\nshape 1\nshield's 1\nshields 2\nshouldn't 1\nsir 3\nsome 1\nsophisticated 1\nstaggers 1\nstand 1\nstardate 1\nstarfleet 1\nstill 2\nstrange 1\nstream 1\nsuddenly 1\nsurvey 1\ntalgonite 1\ntechnology 1\nthe 10\nthere 1\nthis 4\nthree 1\nto 4\ntoo 1\ntwitches 1\nunusual 1\nup 2\nus 2\nvery 1\nviewscreen 1\nwave 1\nwe 1\nwe've 1\nwell 2\nwhat 2\nwhich 1\nwho 1\nwith 1\nwoman's 1\nworf 3\nyet 1\nyou 6\nyou're 2\nyou've 1\nyour 1\nyourself 1",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test 3",
+      "setup": "",
+      "run": "./PA12 ./tests/test3.txt you",
+      "input": "",
+      "output": "5\n- 1\na 35\nabout 2\nabove 1\nactivity 1\nadministrator 12\nadministrator's 1\naffirmation 2\nafraid 1\nagain 2\nagainst 1\nago 1\nagreed 1\nah 1\nair 1\nalarmist 1\nalive 2\nall 6\nalong 2\nalready 1\nalways 2\nam 2\nan 3\nand 17\nanswer 2\nany 1\nanyone 1\nanything 4\nare 13\narid 1\narmed 1\narranged 1\narrived 1\nas 8\nask 1\nat 1\natmospheric 3\naye 1\nback 6\nbatai 32\nbe 13\nbed 2\nbeen 8\nbefore 1\nbeing 1\nbest 1\nbetter 1\nbetween 1\nbeverly 1\nbit 1\nblock 1\nblood 1\nblow 1\nbridge 1\nbright 1\nbuild 1\nbuilding 2\nbusiness 1\nbut 11\nby 1\ncan 5\ncan't 1\ncaptain's 1\ncarefully 1\ncaring 1\ncause 1\nceremony 1\nchange 1\ncharge 2\ncharting 1\nchild 1\nchimes 1\ncling 1\nclue 1\ncolonnade 1\ncome 6\ncomes 1\ncommunication 1\ncommunities 2\ncommunity 5\ncondenser 1\ncondensers 4\nconductor 1\nconnected 1\ncool 1\ncould 3\ncouncil 1\ncourse 5\ncourtyard 2\ncreative 1\ncrops 2\ncrusher 4\ndata 4\nday 2\ndear 1\ndecorated 1\ndefiance 1\ndelicious 1\ndelighted 1\ndesign 1\ndestroy 1\ndid 5\ndie 1\ndifference 1\ndifficult 1\ndo 13\ndoctor 1\ndoesn't 2\ndoing 2\ndon't 4\ndoorbell 1\ndown 2\ndream 2\ndreaming 1\ndrought 4\ndying 1\neach 2\neasy 1\neline 28\nemission 1\nencountered 1\nenough 1\nensign 2\nenterprise 1\nenvironment 1\ner 1\neven 2\never 1\neveryone 2\neverywhere 1\nevidence 1\nexactly 1\nexercise 1\nexhausted 1\nexpect 1\nexpectations 1\nexplain 1\nexplore 1\nextract 1\nextraordinary 1\nfair 1\nfamily 1\nfault 1\nfederation 1\nfeel 1\nfeeling 1\nfeet 1\nfetches 1\nfever 1\nfew 1\nfibrogenic 1\nfigure 1\nfind 1\nfirst 2\nfive 2\nflourishing 1\nflute 2\nfor 14\nforget 1\nforward 1\nfriend 3\nfrom 2\nfulfilling 1\ngave 1\nget 3\ngetting 1\ngift 1\ngive 1\ngives 2\nglad 1\ngo 4\ngoes 1\ngoing 1\ngood 6\ngoodness 1\ngot 1\ngovernment 1\ngratifying 1\nhad 1\nhands 1\nhappen 1\nhappiest 1\nhard 1\nhas 2\nhave 8\nhaven't 2\nhe 4\nhear 2\nhearing 1\nhelp 4\nhelpful 1\nher 2\nhere 4\nherself 1\nhills 1\nhim 5\nholding 1\nhome 2\nhope 2\nhospital 1\nhot 2\nhours 1\nhow 5\nhundred 1\nhungry 2\nhurt 1\nhyperactive 1\ni 28\ni'll 6\ni'm 8\ni've 8\nidea 1\nideas 1\nif 3\nill 2\nimmediately 1\nimpressed 1\nin 13\nincrease 1\ninjury 1\ninside 2\ninsisted 1\ninto 1\niron 1\nis 26\nit 20\nit's 7\nits 2\nitself 1\njudge 1\njust 5\nkamin 11\nkanin 1\nkataan 2\nkeep 3\nkept 1\nkind 1\nknow 5\nkph 1\nlate 1\nleader 1\nleans 1\nlearn 1\nlearned 1\nleast 1\nleaves 1\nlet 3\nlet's 1\nlife 10\nlifetime 1\nlike 2\nlistened 1\nliving 2\nlong 1\nlooks 1\nloved 1\nmake 2\nmarches 1\nmarried 2\nmatter 1\nmay 1\nmaybe 1\nme 16\nmean 2\nmeantime 1\nmeet 1\nmember 1\nmemory 2\nmentioned 1\nmessage 2\nmessages 1\nmight 1\nmister 1\nmonth 1\nmonumental 1\nmore 3\nmorning 2\nmost 1\nmoving 1\nmuch 4\nmust 2\nmy 8\nmyself 1\nname 1\nnecklace 1\nneed 1\nneurotransmitter 1\nnever 2\nnext 1\nnice 1\nno 8\nnormal 2\nnorthern 1\nnot 8\nnow 2\nodd 1\nof 34\noff 2\noh 1\nold 1\non 8\none 1\nonly 1\nopen 1\nor 2\nother 5\nour 6\nout 5\noutcrop 1\nover 1\nown 3\npart 1\nparticipatory 1\nparticle 1\npass 1\npast 1\npatient 1\npattern 1\npendant 1\npenny 1\npeople 2\nperched 1\nperhaps 4\nphasers 2\npicard 46\nplace 2\nplaces 1\nplanet 4\nplanets 1\nplanted 1\nplate 1\nplay 1\nplaying 1\nplease 4\npoint 1\nposition 1\npowerful 1\nprefer 1\npressure 1\nprobe 4\nproduced 1\nproduction 1\nprogress 1\nproject 1\nproves 1\nprovince 1\npulse 1\nput 1\nquash 1\nquestions 1\nquite 1\nrange 1\nrationing 2\nrations 1\nre-acquaint 1\nready 2\nreal 2\nrealised 1\nreally 1\nreclaim 1\nrecommend 1\nrelative 1\nremember 1\nresponsible 1\nressik 2\nreturned 1\nright 2\nriker 6\nriver 1\nroom 1\nrun 1\nsafer 1\nsame 1\nsapling 1\nsavings 1\nsay 3\nscale 1\nscanning 1\nsee 4\nseem 1\nsees 1\nsend 3\nshade 1\nshall 2\nshared 1\nshe 6\nship 3\nshould 2\nshould've 1\nsick 1\nsickbay 1\nsigns 1\nsir 4\nsizeable 1\nsleep 1\nslightly 1\nsmall 1\nso 4\nsome 3\nsomething 2\nsoup 2\nspeaking 1\nspent 1\nspoken 1\nsquare 2\nstand 1\nstar 1\nstarship 1\nstart 2\nstew 1\nstill 2\nstories 1\nstrange 1\nstrong-minded 1\nstubbornness 1\nsuch 2\nsuggest 1\nsun 1\nsunshine 1\nsupper 1\nsupply 1\nsuppose 1\nsure 2\nsurroundings 1\nsurvival 1\nsustain 1\nsymbol 2\nsymbolic 1\nsystem 2\nsystems 1\ntake 4\ntaken 1\ntalk 2\ntassel 1\ntell 2\ntether 1\nthan 2\nthank 5\nthat 22\nthat's 1\nthe 45\ntheir 1\nthem 1\nthere 5\nthere'll 1\nthere's 1\nthese 2\nthey 1\nthings 1\nthink 8\nthirsty 1\nthis 22\nthough 1\nthree 1\nthrusters 1\ntime 2\nto 42\ntoday 1\ntold 1\ntomorrow 2\ntonight 1\ntossing 1\ntown 4\ntrauma 1\ntree 3\ntree-planting 1\ntrial 1\ntried 1\ntrue 1\ntruly 1\ntry 2\ntrying 3\nturning 1\num 1\nunable 1\nunderstand 1\nundertaking 1\nuntil 1\nunusual 1\nup 1\nus 4\nusual 1\nvegetable 1\nvery 5\nvisit 1\nvital 1\nvoice-transit 1\nwaited 1\nwalk 1\nwalked 1\nwant 3\nwas 8\nwatches 1\nwatching 1\nwater 6\nwatering 1\nway 1\nways 1\nwe 11\nwe'll 1\nwe're 2\nwe've 1\nweapon 1\nweather 1\nweaver 1\nweek 2\nwell 6\nwent 1\nwere 2\nwhat 11\nwhat's 1\nwhatever 1\nwhen 9\nwhere 5\nwhich 1\nwhistle 1\nwhite-walled 1\nwho 2\nwhy 1\nwife 1\nwill 12\nwise 1\nwith 8\nworf 2\nworks 1\nworry 1\nwould 3\nwouldn't 1\nyears 5\nyes 5\nyet 1\nyou 64\nyou'll 1\nyou're 5\nyou've 3\nyour 9\nyours 2",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test 51: Memory leak test (insert and delete)",
+      "setup": "",
+      "run": "valgrind --leak-check=full --error-exitcode=1 ./PA12 ./tests/test2.txt picard",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
